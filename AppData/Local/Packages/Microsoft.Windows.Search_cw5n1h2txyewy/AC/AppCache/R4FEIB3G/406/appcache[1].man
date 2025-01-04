@@ -1,0 +1,35 @@
+CACHE MANIFEST
+# Version:1761a476
+CACHE:
+/AS/API/WindowsCortanaPane/V2/Init
+/rp/IGR8tSLmA6SmnfRHdg6JUrchdK4.br.js
+https://www.bing.com/rb/1a/cir2,ortl,cc,nc/kLrfiYYB8DcIiAPGSl94eXWqho8.css?bu=B0kqqgFASUm4AQ&or=w
+https://www.bing.com/rb/1a/cir2,ortl,cc,nc/pruIjZrINl54b1DFfOmF2j3uLgw.css?bu=CcUF-AHFApUGlgWKBcMDSUk&or=w
+https://www.bing.com/rb/47/ortl,cc,nc/8yOt-qMgl3wFFpnXBbdaeUrdWpM.css?bu=A4gCjAKPAg&or=w
+https://www.bing.com/rb/6K/cir2,ortl,cc,nc/1Yfk-3V_fr69ZCFYh0_xt3xh27I.css?bu=E9YF0wXoBY0G3wXcBc0FhwbrBe4FzQXxBc0F-QWCBvwFzQXNBc0F&or=w
+https://www.bing.com/rb/6K/ortl,cc,nc/QNBBNqWD9F_Blep-UqQSqnMp-FI.css?bu=Ac0F&or=w
+https://www.bing.com/rp/_F0M0yoTmc2b-_eS3W0Eu-fGENs.br.js
+https://www.bing.com/rp/-F18fRqIHD4LJrfsgyM2NDvZidk.br.js
+https://www.bing.com/rp/98-tFzBbrLP3oaKdmZtyZ4BBBI4.br.js
+https://www.bing.com/rp/BQR--Mi6Hdug9aUgfjMzORag63E.br.js
+https://www.bing.com/rp/Cj4mQnDN_eMyYEqsEbjRrJ2Ttec.br.js
+https://www.bing.com/rp/dDvFyEN5NUlvXtv0P7Q_Sd0WtSk.br.js
+https://www.bing.com/rp/eSdAF68n9WQC1YQgHVymPrD6J6Y.br.js
+https://www.bing.com/rp/fyfFk36HD3QUinTeTny5EVW5byI.br.js
+https://www.bing.com/rp/hVg86o2XtGyHPCgSRTWmVcJxSzk.br.js
+https://www.bing.com/rp/HXQOmZnHKkJYgneadHww_IjOlxQ.br.js
+https://www.bing.com/rp/jz5JHWe_2WCod7u1RNWmByRezL4.br.js
+https://www.bing.com/rp/Kkldx62rccv-Bzu7At27YTm5Nlk.br.js
+https://www.bing.com/rp/LbKjtxCzpEXwJ0siuovV3zRQS84.br.js
+https://www.bing.com/rp/MAi8ZrMgFhG81tZ07Arc2JEjTY8.br.js
+https://www.bing.com/rp/MDqPc1m5c6NCOcjcf9QO_UfJAUI.br.js
+https://www.bing.com/rp/MpERUKdVtuFxQn4rK6MgFDDuVxk.br.js
+https://www.bing.com/rp/oGP-E4wqmUvaQFt6NMpTMow3eAg.br.js
+https://www.bing.com/rp/PtJ0sG6SGJBcO7Y0IouyVH2X9zg.br.js
+https://www.bing.com/rp/x0Cvpg0MmmBx9EUGxLDfa2xcV-E.br.js
+https://www.bing.com/rp/Yi3Flkft8YS8nbd9qCHjIlXAHPg.br.js
+https://www.bing.com/rp/zEQqhwKoETyGdQapOnP2uL1FFF0.br.js
+https://www.bing.com/rp/zPqzXYb1A6WGrpWvQmlQUBTXxEk.br.js
+https://www.bing.com/rs/6u/1bD/ortl,cc,nc/onra7PQl9o5bYT2lASI1BE4DDEs.css?or=w
+NETWORK:
+*
